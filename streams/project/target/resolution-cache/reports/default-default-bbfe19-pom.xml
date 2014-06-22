@@ -5,11 +5,11 @@
 		organisation="default"
 		module="default-bbfe19"
 		revision="0.1-SNAPSHOT"
-		extra-sbtVersion="0.12"
 		extra-scalaVersion="2.9.2"
+		extra-sbtVersion="0.12"
 		conf="pom"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom"
-		date="20140615182502"/>
+		date="20140622200211"/>
 	<dependencies>
 	</dependencies>
 </ivy-report>

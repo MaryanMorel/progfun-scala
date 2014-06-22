@@ -4,7 +4,7 @@
 		module="progfun-streams$sources_javadoc_2.10"
 		revision="1.0.0"
 		status="integration"
-		publication="20140615172739"
+		publication="20140622164628"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>

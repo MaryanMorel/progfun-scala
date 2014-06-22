@@ -4,7 +4,7 @@
 		module="progfun-streams$sources_2.10"
 		revision="1.0.0"
 		status="integration"
-		publication="20140615172733"
+		publication="20140622164608"
 	/>
 	<configurations>
 		<conf name="default" visibility="public" description=""/>
